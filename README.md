@@ -1,0 +1,2 @@
+O Modulo é super importante, porém faltam algumas informações no inicio do curso que podem confundir um aluno mais basico, como config e escolher e pasta onde o arquivo .git no nosso computador
+tudo isso é fácil de achar na internet, mas pode causar uma confus~çaozinha no incio do modulo. 
